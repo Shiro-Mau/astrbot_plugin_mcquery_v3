@@ -1,0 +1,539 @@
+{
+ "烤马铃薯": [
+  {
+   "input": [
+    "Potato"
+   ],
+   "output": "Baked Potato"
+  }
+ ],
+ "黑色带釉陶瓦": [
+  {
+   "input": [
+    "Black Terracotta"
+   ],
+   "output": "Black Glazed Terracotta"
+  }
+ ],
+ "蓝色带釉陶瓦": [
+  {
+   "input": [
+    "Blue Terracotta"
+   ],
+   "output": "Blue Glazed Terracotta"
+  }
+ ],
+ "红砖": [
+  {
+   "input": [
+    "Clay (ball)"
+   ],
+   "output": "Brick"
+  }
+ ],
+ "棕色带釉陶瓦": [
+  {
+   "input": [
+    "Brown Terracotta"
+   ],
+   "output": "Brown Glazed Terracotta"
+  }
+ ],
+ "木炭": [
+  {
+   "input": [
+    "Any Logs That Burn"
+   ],
+   "output": "Charcoal"
+  }
+ ],
+ "煤炭": [
+  {
+   "input": [
+    "Coal Ore",
+    "Deepslate Coal Ore"
+   ],
+   "output": "Coal"
+  }
+ ],
+ "牛排": [
+  {
+   "input": [
+    "Raw Beef"
+   ],
+   "output": "Cooked Beef"
+  }
+ ],
+ "熟鸡肉": [
+  {
+   "input": [
+    "Raw Chicken"
+   ],
+   "output": "Cooked Chicken"
+  }
+ ],
+ "熟鳕鱼": [
+  {
+   "input": [
+    "Raw Cod"
+   ],
+   "output": "Cooked Cod"
+  }
+ ],
+ "熟羊肉": [
+  {
+   "input": [
+    "Raw Mutton"
+   ],
+   "output": "Cooked Mutton"
+  }
+ ],
+ "熟猪排": [
+  {
+   "input": [
+    "Raw Porkchop"
+   ],
+   "output": "Cooked Porkchop"
+  }
+ ],
+ "熟兔肉": [
+  {
+   "input": [
+    "Raw Rabbit"
+   ],
+   "output": "Cooked Rabbit"
+  }
+ ],
+ "熟鲑鱼": [
+  {
+   "input": [
+    "Raw Salmon"
+   ],
+   "output": "Cooked Salmon"
+  }
+ ],
+ "铜锭": [
+  {
+   "input": [
+    "Copper Ore",
+    "Deepslate Copper Ore",
+    "Raw Copper"
+   ],
+   "output": "Copper Ingot"
+  }
+ ],
+ "铜粒": [
+  {
+   "input": [
+    "Copper Pickaxe",
+    "Copper Shovel",
+    "Copper Axe",
+    "Copper Hoe",
+    "Copper Sword",
+    "Copper Spear",
+    "Copper Helmet",
+    "Copper Chestplate",
+    "Copper Leggings",
+    "Copper Boots",
+    "Copper Horse Armor",
+    "Copper Nautilus Armor"
+   ],
+   "output": "Copper Nugget"
+  }
+ ],
+ "裂纹深板岩砖": [
+  {
+   "input": [
+    "Deepslate Bricks"
+   ],
+   "output": "Cracked Deepslate Bricks"
+  }
+ ],
+ "裂纹深板岩瓦": [
+  {
+   "input": [
+    "Deepslate Tiles"
+   ],
+   "output": "Cracked Deepslate Tiles"
+  }
+ ],
+ "裂纹下界砖块": [
+  {
+   "input": [
+    "Nether Bricks"
+   ],
+   "output": "Cracked Nether Bricks"
+  }
+ ],
+ "裂纹磨制黑石砖": [
+  {
+   "input": [
+    "Polished Blackstone Bricks"
+   ],
+   "output": "Cracked Polished Blackstone Bricks"
+  }
+ ],
+ "裂纹石砖": [
+  {
+   "input": [
+    "Stone Bricks"
+   ],
+   "output": "Cracked Stone Bricks"
+  }
+ ],
+ "青色带釉陶瓦": [
+  {
+   "input": [
+    "Cyan Terracotta"
+   ],
+   "output": "Cyan Glazed Terracotta"
+  }
+ ],
+ "深板岩": [
+  {
+   "input": [
+    "Cobbled Deepslate"
+   ],
+   "output": "Deepslate"
+  }
+ ],
+ "钻石": [
+  {
+   "input": [
+    "Deepslate Diamond Ore",
+    "Diamond Ore"
+   ],
+   "output": "Diamond"
+  }
+ ],
+ "干海带": [
+  {
+   "input": [
+    "Kelp"
+   ],
+   "output": "Dried Kelp"
+  }
+ ],
+ "绿宝石": [
+  {
+   "input": [
+    "Deepslate Emerald Ore",
+    "Emerald Ore"
+   ],
+   "output": "Emerald"
+  }
+ ],
+ "玻璃": [
+  {
+   "input": [
+    "Any Smelts To Glass"
+   ],
+   "output": "Glass"
+  }
+ ],
+ "金锭": [
+  {
+   "input": [
+    "Deepslate Gold Ore",
+    "Gold Ore",
+    "Nether Gold Ore",
+    "Raw Gold"
+   ],
+   "output": "Gold Ingot"
+  }
+ ],
+ "金粒": [
+  {
+   "input": [
+    "Golden Pickaxe",
+    "Golden Shovel",
+    "Golden Axe",
+    "Golden Hoe",
+    "Golden Sword",
+    "Golden Spear",
+    "Golden Helmet",
+    "Golden Chestplate",
+    "Golden Leggings",
+    "Golden Boots",
+    "Golden Horse Armor",
+    "Golden Nautilus Armor"
+   ],
+   "output": "Gold Nugget"
+  }
+ ],
+ "灰色带釉陶瓦": [
+  {
+   "input": [
+    "Gray Terracotta"
+   ],
+   "output": "Gray Glazed Terracotta"
+  }
+ ],
+ "绿色染料": [
+  {
+   "input": [
+    "Cactus"
+   ],
+   "output": "Green Dye"
+  }
+ ],
+ "绿色带釉陶瓦": [
+  {
+   "input": [
+    "Green Terracotta"
+   ],
+   "output": "Green Glazed Terracotta"
+  }
+ ],
+ "铁锭": [
+  {
+   "input": [
+    "Deepslate Iron Ore",
+    "Iron Ore",
+    "Raw Iron"
+   ],
+   "output": "Iron Ingot"
+  }
+ ],
+ "铁粒": [
+  {
+   "input": [
+    "Iron Pickaxe",
+    "Iron Shovel",
+    "Iron Axe",
+    "Iron Hoe",
+    "Iron Sword",
+    "Iron Spear",
+    "Iron Helmet",
+    "Iron Chestplate",
+    "Iron Leggings",
+    "Iron Boots",
+    "Iron Horse Armor",
+    "Iron Nautilus Armor",
+    "Chainmail Helmet",
+    "Chainmail Chestplate",
+    "Chainmail Leggings",
+    "Chainmail Boots"
+   ],
+   "output": "Iron Nugget"
+  }
+ ],
+ "青金石": [
+  {
+   "input": [
+    "Deepslate Lapis Lazuli Ore",
+    "Lapis Lazuli Ore"
+   ],
+   "output": "Lapis Lazuli"
+  }
+ ],
+ "枯叶堆": [
+  {
+   "input": [
+    "Any Leaves"
+   ],
+   "output": "Leaf Litter"
+  }
+ ],
+ "淡蓝色带釉陶瓦": [
+  {
+   "input": [
+    "Light Blue Terracotta"
+   ],
+   "output": "Light Blue Glazed Terracotta"
+  }
+ ],
+ "淡灰色带釉陶瓦": [
+  {
+   "input": [
+    "Light Gray Terracotta"
+   ],
+   "output": "Light Gray Glazed Terracotta"
+  }
+ ],
+ "黄绿色染料": [
+  {
+   "input": [
+    "Sea Pickle"
+   ],
+   "output": "Lime Dye"
+  }
+ ],
+ "黄绿色带釉陶瓦": [
+  {
+   "input": [
+    "Lime Terracotta"
+   ],
+   "output": "Lime Glazed Terracotta"
+  }
+ ],
+ "品红色带釉陶瓦": [
+  {
+   "input": [
+    "Magenta Terracotta"
+   ],
+   "output": "Magenta Glazed Terracotta"
+  }
+ ],
+ "下界砖": [
+  {
+   "input": [
+    "Netherrack"
+   ],
+   "output": "Nether Brick"
+  }
+ ],
+ "下界合金碎片": [
+  {
+   "input": [
+    "Ancient Debris"
+   ],
+   "output": "Netherite Scrap"
+  }
+ ],
+ "橙色带釉陶瓦": [
+  {
+   "input": [
+    "Orange Terracotta"
+   ],
+   "output": "Orange Glazed Terracotta"
+  }
+ ],
+ "粉红色带釉陶瓦": [
+  {
+   "input": [
+    "Pink Terracotta"
+   ],
+   "output": "Pink Glazed Terracotta"
+  }
+ ],
+ "爆裂紫颂果": [
+  {
+   "input": [
+    "Chorus Fruit"
+   ],
+   "output": "Popped Chorus Fruit"
+  }
+ ],
+ "紫色带釉陶瓦": [
+  {
+   "input": [
+    "Purple Terracotta"
+   ],
+   "output": "Purple Glazed Terracotta"
+  }
+ ],
+ "下界石英": [
+  {
+   "input": [
+    "Nether Quartz Ore"
+   ],
+   "output": "Nether Quartz"
+  }
+ ],
+ "红色带釉陶瓦": [
+  {
+   "input": [
+    "Red Terracotta"
+   ],
+   "output": "Red Glazed Terracotta"
+  }
+ ],
+ "红石粉": [
+  {
+   "input": [
+    "Deepslate Redstone Ore",
+    "Redstone Ore"
+   ],
+   "output": "Redstone"
+  }
+ ],
+ "树脂砖": [
+  {
+   "input": [
+    "Resin Clump"
+   ],
+   "output": "Resin Brick"
+  }
+ ],
+ "平滑玄武岩": [
+  {
+   "input": [
+    "Basalt"
+   ],
+   "output": "Smooth Basalt"
+  }
+ ],
+ "平滑石英块": [
+  {
+   "input": [
+    "Block of Quartz"
+   ],
+   "output": "Smooth Quartz"
+  }
+ ],
+ "平滑红砂岩": [
+  {
+   "input": [
+    "Red Sandstone"
+   ],
+   "output": "Smooth Red Sandstone"
+  }
+ ],
+ "平滑砂岩": [
+  {
+   "input": [
+    "Sandstone"
+   ],
+   "output": "Smooth Sandstone"
+  }
+ ],
+ "平滑石头": [
+  {
+   "input": [
+    "Stone"
+   ],
+   "output": "Smooth Stone"
+  }
+ ],
+ "海绵": [
+  {
+   "input": [
+    "Wet Sponge"
+   ],
+   "output": "Sponge"
+  }
+ ],
+ "石头": [
+  {
+   "input": [
+    "Cobblestone"
+   ],
+   "output": "Stone"
+  }
+ ],
+ "陶瓦": [
+  {
+   "input": [
+    "Clay"
+   ],
+   "output": "Terracotta"
+  }
+ ],
+ "白色带釉陶瓦": [
+  {
+   "input": [
+    "White Terracotta"
+   ],
+   "output": "White Glazed Terracotta"
+  }
+ ],
+ "黄色带釉陶瓦": [
+  {
+   "input": [
+    "Yellow Terracotta"
+   ],
+   "output": "Yellow Glazed Terracotta"
+  }
+ ]
+}

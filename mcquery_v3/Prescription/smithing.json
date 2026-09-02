@@ -1,0 +1,98 @@
+{
+ "下界合金斧": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Axe",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Axe"
+  }
+ ],
+ "下界合金靴子": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Boots",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Boots"
+  }
+ ],
+ "下界合金胸甲": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Chestplate",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Chestplate"
+  }
+ ],
+ "下界合金头盔": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Helmet",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Helmet"
+  }
+ ],
+ "下界合金锄": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Hoe",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Hoe"
+  }
+ ],
+ "下界合金马铠": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Horse Armor",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Horse Armor"
+  }
+ ],
+ "下界合金护腿": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Leggings",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Leggings"
+  }
+ ],
+ "下界合金鹦鹉螺铠": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Nautilus Armor",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Nautilus Armor"
+  }
+ ],
+ "下界合金镐": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Pickaxe",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Pickaxe"
+  }
+ ],
+ "下界合金锹": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Shovel",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Shovel"
+  }
+ ],
+ "下界合金矛": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Spear",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Spear"
+  }
+ ],
+ "下界合金剑": [
+  {
+   "template": "Netherite Upgrade",
+   "base": "Diamond Sword",
+   "addition": "Netherite Ingot",
+   "output": "Netherite Sword"
+  }
+ ]
+}

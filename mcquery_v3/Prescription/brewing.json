@@ -1,0 +1,499 @@
+{
+ "力量药水": [
+  {
+   "ingredient": "Blaze Powder",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Strength;Splash Potion of Strength;Lingering Potion of Strength"
+  },
+  {
+   "ingredient": "Redstone Dust",
+   "base": "Potion of Strength;Splash Potion of Strength;Lingering Potion of Strength",
+   "output": "Potion of Strength Extended;Splash Potion of Strength Extended;Lingering Potion of Strength Extended"
+  },
+  {
+   "ingredient": "Glowstone Dust",
+   "base": "Potion of Strength;Splash Potion of Strength;Lingering Potion of Strength",
+   "output": "Potion of Strength Enhanced;Splash Potion of Strength Enhanced;Lingering Potion of Strength Enhanced"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Strength;Potion of Strength Extended;Potion of Strength Enhanced",
+   "output": "Splash Potion of Strength;Splash Potion of Strength Extended;Splash Potion of Strength Enhanced"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Strength;Splash Potion of Strength Extended;Splash Potion of Strength Enhanced",
+   "output": "Lingering Potion of Strength;Lingering Potion of Strength Extended;Lingering Potion of Strength Enhanced"
+  }
+ ],
+ "迅捷药水": [
+  {
+   "ingredient": "Sugar",
+   "base": "Awkward Potion; Awkward Splash Potion; Awkward Lingering Potion",
+   "output": "Potion of Swiftness; Splash Potion of Swiftness; Lingering Potion of Swiftness"
+  },
+  {
+   "ingredient": "Redstone Dust",
+   "base": "Potion of Swiftness; Splash Potion of Swiftness; Lingering Potion of Swiftness",
+   "output": "Potion of Swiftness Extended; Splash Potion of Swiftness Extended; Lingering Potion of Swiftness Extended"
+  },
+  {
+   "ingredient": "Glowstone Dust",
+   "base": "Potion of Swiftness; Splash Potion of Swiftness; Lingering Potion of Swiftness",
+   "output": "Potion of Swiftness Enhanced; Splash Potion of Swiftness Enhanced; Lingering Potion of Swiftness Enhanced"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Swiftness;Potion of Swiftness Extended;Potion of Swiftness Enhanced",
+   "output": "Splash Potion of Swiftness;Splash Potion of Swiftness Extended;Splash Potion of Swiftness Enhanced"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Swiftness;Splash Potion of Swiftness Extended;Splash Potion of Swiftness Enhanced",
+   "output": "Lingering Potion of Swiftness;Lingering Potion of Swiftness Extended;Lingering Potion of Swiftness Enhanced"
+  }
+ ],
+ "治疗药水": [
+  {
+   "ingredient": "Glistering Melon Slice",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Healing;Splash Potion of Healing;Lingering Potion of Healing"
+  },
+  {
+   "ingredient": "Glowstone Dust",
+   "base": "Potion of Healing;Splash Potion of Healing;Lingering Potion of Healing",
+   "output": "Potion of Healing Enhanced;Splash Potion of Healing Enhanced;Lingering Potion of Healing Enhanced"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Healing;Potion of Healing Enhanced",
+   "output": "Splash Potion of Healing;Splash Potion of Healing Enhanced"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Healing;Splash Potion of Healing Enhanced",
+   "output": "Lingering Potion of Healing;Lingering Potion of Healing Enhanced"
+  }
+ ],
+ "剧毒药水": [
+  {
+   "ingredient": "Spider Eye",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Poison;Splash Potion of Poison;Lingering Potion of Poison"
+  },
+  {
+   "ingredient": "Redstone Dust",
+   "base": "Potion of Poison;Splash Potion of Poison;Lingering Potion of Poison",
+   "output": "Potion of Poison Extended;Splash Potion of Poison Extended;Lingering Potion of Poison Extended"
+  },
+  {
+   "ingredient": "Glowstone Dust",
+   "base": "Potion of Poison;Splash Potion of Poison;Lingering Potion of Poison",
+   "output": "Potion of Poison Enhanced;Splash Potion of Poison Enhanced;Lingering Potion of Poison Enhanced"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Poison;Potion of Poison Extended;Potion of Poison Enhanced",
+   "output": "Splash Potion of Poison;Splash Potion of Poison Extended;Splash Potion of Poison Enhanced"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Poison;Splash Potion of Poison Extended;Splash Potion of Poison Enhanced",
+   "output": "Lingering Potion of Poison;Lingering Potion of Poison Extended;Lingering Potion of Poison Enhanced"
+  }
+ ],
+ "再生药水": [
+  {
+   "ingredient": "Ghast Tear",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Regeneration;Splash Potion of Regeneration;Lingering Potion of Regeneration"
+  },
+  {
+   "ingredient": "Redstone Dust",
+   "base": "Potion of Regeneration;Splash Potion of Regeneration;Lingering Potion of Regeneration",
+   "output": "Potion of Regeneration Extended;Splash Potion of Regeneration Extended;Lingering Potion of Regeneration Extended"
+  },
+  {
+   "ingredient": "Glowstone Dust",
+   "base": "Potion of Regeneration;Splash Potion of Regeneration;Lingering Potion of Regeneration",
+   "output": "Potion of Regeneration Enhanced;Splash Potion of Regeneration Enhanced;Lingering Potion of Regeneration Enhanced"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Regeneration;Potion of Regeneration Extended;Potion of Regeneration Enhanced",
+   "output": "Splash Potion of Regeneration;Splash Potion of Regeneration Extended;Splash Potion of Regeneration Enhanced"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Regeneration;Splash Potion of Regeneration Extended;Splash Potion of Regeneration Enhanced",
+   "output": "Lingering Potion of Regeneration;Lingering Potion of Regeneration Extended;Lingering Potion of Regeneration Enhanced"
+  }
+ ],
+ "跳跃药水": [
+  {
+   "ingredient": "Rabbit's Foot",
+   "base": "Awkward Potion; Awkward Splash Potion; Awkward Lingering Potion",
+   "output": "Potion of Leaping; Splash Potion of Leaping; Lingering Potion of Leaping"
+  },
+  {
+   "ingredient": "Redstone Dust",
+   "base": "Potion of Leaping; Splash Potion of Leaping; Lingering Potion of Leaping",
+   "output": "Potion of Leaping Extended; Splash Potion of Leaping Extended; Lingering Potion of Leaping Extended"
+  },
+  {
+   "ingredient": "Glowstone Dust",
+   "base": "Potion of Leaping; Splash Potion of Leaping; Lingering Potion of Leaping",
+   "output": "Potion of Leaping Enhanced; Splash Potion of Leaping Enhanced; Lingering Potion of Leaping Enhanced"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Leaping;Potion of Leaping Extended;Potion of Leaping Enhanced",
+   "output": "Splash Potion of Leaping;Splash Potion of Leaping Extended;Splash Potion of Leaping Enhanced"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Leaping;Splash Potion of Leaping Extended;Splash Potion of Leaping Enhanced",
+   "output": "Lingering Potion of Leaping;Lingering Potion of Leaping Extended;Lingering Potion of Leaping Enhanced"
+  }
+ ],
+ "夜视药水": [
+  {
+   "ingredient": "Golden Carrot",
+   "base": "Awkward Potion; Awkward Splash Potion; Awkward Lingering Potion",
+   "output": "Potion of Night Vision; Splash Potion of Night Vision; Lingering Potion of Night Vision"
+  },
+  {
+   "ingredient": "Redstone Dust",
+   "base": "Potion of Night Vision; Splash Potion of Night Vision; Lingering Potion of Night Vision",
+   "output": "Potion of Night Vision Extended; Splash Potion of Night Vision Extended; Lingering Potion of Night Vision Extended"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Night Vision;Potion of Night Vision Extended",
+   "output": "Splash Potion of Night Vision;Splash Potion of Night Vision Extended"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Night Vision;Splash Potion of Night Vision Extended",
+   "output": "Lingering Potion of Night Vision;Lingering Potion of Night Vision Extended"
+  }
+ ],
+ "隐身药水": [
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Potion of Night Vision; Splash Potion of Night Vision; Lingering Potion of Night Vision",
+   "output": "Potion of Invisibility; Splash Potion of Invisibility; Lingering Potion of Invisibility"
+  },
+  {
+   "ingredient": "Redstone Dust",
+   "base": "Potion of Invisibility; Splash Potion of Invisibility; Lingering Potion of Invisibility",
+   "output": "Potion of Invisibility Extended; Splash Potion of Invisibility Extended; Lingering Potion of Invisibility Extended"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Invisibility;Potion of Invisibility Extended",
+   "output": "Splash Potion of Invisibility;Splash Potion of Invisibility Extended"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Invisibility;Splash Potion of Invisibility Extended",
+   "output": "Lingering Potion of Invisibility;Lingering Potion of Invisibility Extended"
+  }
+ ],
+ "虚弱药水": [
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Water Bottle;Splash Water Bottle;Lingering Water Bottle",
+   "output": "Potion of Weakness;Splash Potion of Weakness;Lingering Potion of Weakness"
+  },
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Weakness;Splash Potion of Weakness;Lingering Potion of Weakness"
+  },
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Mundane Potion;Mundane Splash Potion;Mundane Lingering Potion",
+   "output": "Potion of Weakness;Splash Potion of Weakness;Lingering Potion of Weakness"
+  },
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Thick Potion;Thick Splash Potion;Thick Lingering Potion",
+   "output": "Potion of Weakness;Splash Potion of Weakness;Lingering Potion of Weakness"
+  },
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Potion of Strength; Splash Potion of Strength ;Lingering Potion of Strength Enhanced",
+   "output": "Potion of Weakness; Splash Potion of Weakness; Lingering Potion of Weakness"
+  },
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Potion of Strength Enhanced; Splash Potion of Strength Enhanced; Lingering Potion of Strength Enhanced",
+   "output": "Potion of Weakness; Splash Potion of Weakness; Lingering Potion of Weakness"
+  },
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Long Mundane Potion;Splash Long Mundane Potion;Lingering Long Mundane Potion",
+   "output": "Potion of Weakness Extended;Splash Potion of Weakness Extended;Lingering Potion of Weakness Extended"
+  },
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Potion of Strength Extended; Splash Potion of Strength Extended; Lingering Potion of Strength Extended",
+   "output": "Potion of Weakness Extended; Splash Potion of Weakness Extended; Lingering Potion of Weakness Extended"
+  },
+  {
+   "ingredient": "Redstone Dust",
+   "base": "Potion of Weakness;Splash Potion of Weakness;Lingering Potion of Weakness",
+   "output": "Potion of Weakness Extended;Splash Potion of Weakness Extended;Lingering Potion of Weakness Extended"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Weakness;Potion of Weakness Extended",
+   "output": "Splash Potion of Weakness;Splash Potion of Weakness Extended"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Weakness;Splash Potion of Weakness Extended",
+   "output": "Lingering Potion of Weakness;Lingering Potion of Weakness Extended"
+  }
+ ],
+ "伤害药水": [
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Potion of Healing;Splash Potion of Healing;Lingering Potion of Healing",
+   "output": "Potion of Harming;Splash Potion of Harming;Lingering Potion of Harming"
+  },
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Potion of Poison;Splash Potion of Poison;Lingering Potion of Poison",
+   "output": "Potion of Harming;Splash Potion of Harming;Lingering Potion of Harming"
+  },
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Potion of Poison Extended;Splash Potion of Poison Extended;Lingering Potion of Poison Extended",
+   "output": "Potion of Harming;Splash Potion of Harming;Lingering Potion of Harming"
+  },
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Potion of Healing Enhanced;Splash Potion of Healing Enhanced;Lingering Potion of Healing Enhanced",
+   "output": "Potion of Harming Enhanced;Splash Potion of Harming Enhanced;Lingering Potion of Harming Enhanced"
+  },
+  {
+   "ingredient": "Fermented Spider Eye",
+   "base": "Potion of Poison Enhanced;Splash Potion of Poison Enhanced;Lingering Potion of Poison Enhanced",
+   "output": "Potion of Harming Enhanced;Splash Potion of Harming Enhanced;Lingering Potion of Harming Enhanced"
+  },
+  {
+   "ingredient": "Glowstone Dust",
+   "base": "Potion of Harming;Splash Potion of Harming;Lingering Potion of Harming",
+   "output": "Potion of Harming Enhanced;Splash Potion of Harming Enhanced;Lingering Potion of Harming Enhanced"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Harming;Potion of Harming Enhanced",
+   "output": "Splash Potion of Harming;Splash Potion of Harming Enhanced"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Harming;Splash Potion of Harming Enhanced",
+   "output": "Lingering Potion of Harming;Lingering Potion of Harming Enhanced"
+  }
+ ],
+ "缓降药水": [
+  {
+   "ingredient": "Phantom Membrane",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Slow Falling;Splash Potion of Slow Falling;Lingering Potion of Slow Falling"
+  },
+  {
+   "ingredient": "Redstone Dust",
+   "base": "Potion of Slow Falling;Splash Potion of Slow Falling;Lingering Potion of Slow Falling",
+   "output": "Potion of Slow Falling Extended;Splash Potion of Slow Falling Extended;Lingering Potion of Slow Falling Extended"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Slow Falling;Potion of Slow Falling Extended",
+   "output": "Splash Potion of Slow Falling;Splash Potion of Slow Falling Extended"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Slow Falling;Splash Potion of Slow Falling Extended",
+   "output": "Lingering Potion of Slow Falling;Lingering Potion of Slow Falling Extended"
+  }
+ ],
+ "神龟药水": [
+  {
+   "ingredient": "Turtle Shell",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of the Turtle Master;Splash Potion of the Turtle Master;Lingering Potion of the Turtle Master"
+  },
+  {
+   "ingredient": "Redstone Dust",
+   "base": "Potion of the Turtle Master;Splash Potion of the Turtle Master;Lingering Potion of the Turtle Master",
+   "output": "Potion of the Turtle Master Extended;Splash Potion of the Turtle Master Extended;Lingering Potion of the Turtle Master Extended"
+  },
+  {
+   "ingredient": "Glowstone Dust",
+   "base": "Potion of the Turtle Master;Splash Potion of the Turtle Master;Lingering Potion of the Turtle Master",
+   "output": "Potion of the Turtle Master Enhanced;Splash Potion of the Turtle Master Enhanced;Lingering Potion of the Turtle Master Enhanced"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of the Turtle Master;Potion of the Turtle Master Extended;Potion of the Turtle Master Enhanced",
+   "output": "Splash Potion of the Turtle Master;Splash Potion of the Turtle Master Extended;Splash Potion of the Turtle Master Enhanced"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of the Turtle Master;Splash Potion of the Turtle Master Extended;Splash Potion of the Turtle Master Enhanced",
+   "output": "Lingering Potion of the Turtle Master;Lingering Potion of the Turtle Master Extended;Lingering Potion of the Turtle Master Enhanced"
+  }
+ ],
+ "粗制的药水": [
+  {
+   "ingredient": "Nether Wart",
+   "base": "Water Bottle;Splash Water Bottle;Lingering Water Bottle",
+   "output": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Awkward Potion",
+   "output": "Awkward Splash Potion"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Awkward Splash Potion",
+   "output": "Awkward Lingering Potion"
+  },
+  {
+   "ingredient": "Golden Carrot",
+   "base": "Awkward Potion; Awkward Splash Potion; Awkward Lingering Potion",
+   "output": "Potion of Night Vision; Splash Potion of Night Vision; Lingering Potion of Night Vision"
+  },
+  {
+   "ingredient": "Rabbit's Foot",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Leaping; Splash Potion of Leaping; Lingering Potion of Leaping"
+  },
+  {
+   "ingredient": "Magma Cream",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Fire Resistance; Splash Potion of Fire Resistance; Lingering Potion of Fire Resistance"
+  },
+  {
+   "ingredient": "Sugar",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Swiftness; Splash Potion of Swiftness; Lingering Potion of Swiftness"
+  },
+  {
+   "ingredient": "Pufferfish",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Water Breathing;Splash Potion of Water Breathing;Lingering Potion of Water Breathing"
+  },
+  {
+   "ingredient": "Glistering Melon Slice",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Healing;Splash Potion of Healing;Lingering Potion of Healing"
+  },
+  {
+   "ingredient": "Spider Eye",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Poison;Splash Potion of Poison;Lingering Potion of Poison"
+  },
+  {
+   "ingredient": "Ghast Tear",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Regeneration;Splash Potion of Regeneration;Lingering Potion of Regeneration"
+  },
+  {
+   "ingredient": "Blaze Powder",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Strength;Splash Potion of Strength;Lingering Potion of Strength"
+  },
+  {
+   "ingredient": "Turtle Shell",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of the Turtle Master;Splash Potion of the Turtle Master;Lingering Potion of the Turtle Master"
+  },
+  {
+   "ingredient": "Phantom Membrane",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Slow Falling;Splash Potion of Slow Falling;Lingering Potion of Slow Falling"
+  },
+  {
+   "ingredient": "Breeze Rod",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Wind Charging;Splash Potion of Wind Charging;Lingering Potion of Wind Charging"
+  },
+  {
+   "ingredient": "Cobweb",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Weaving;Splash Potion of Weaving;Lingering Potion of Weaving"
+  },
+  {
+   "ingredient": "Slime Block",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Oozing;Splash Potion of Oozing;Lingering Potion of Oozing"
+  },
+  {
+   "ingredient": "Stone",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Infestation;Splash Potion of Infestation;Lingering Potion of Infestation"
+  }
+ ],
+ "平凡的药水": [
+  {
+   "ingredient": "Redstone Dust; Sugar; Rabbit's Foot; Glistering Melon; Spider Eye; Magma Cream; Blaze Powder; Ghast Tear; Stone; Slime Block; Cobweb; Breeze Rod",
+   "base": "Water Bottle;Splash Water Bottle;Lingering Water Bottle",
+   "output": "Mundane Potion;Mundane Splash Potion;Mundane Lingering Potion"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Mundane Potion",
+   "output": "Mundane Splash Potion"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Mundane Splash Potion",
+   "output": "Mundane Lingering Potion"
+  }
+ ],
+ "浓稠的药水": [
+  {
+   "ingredient": "Glowstone Dust",
+   "base": "Water Bottle;Splash Water Bottle;Lingering Water Bottle",
+   "output": "Thick Potion;Thick Splash Potion;Thick Lingering Potion"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Thick Potion",
+   "output": "Thick Splash Potion"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Thick Splash Potion",
+   "output": "Thick Lingering Potion"
+  }
+ ],
+ "水肺药水": [
+  {
+   "ingredient": "Pufferfish",
+   "base": "Awkward Potion;Awkward Splash Potion;Awkward Lingering Potion",
+   "output": "Potion of Water Breathing;Splash Potion of Water Breathing;Lingering Potion of Water Breathing"
+  },
+  {
+   "ingredient": "Redstone Dust",
+   "base": "Potion of Water Breathing;Splash Potion of Water Breathing;Lingering Potion of Water Breathing",
+   "output": "Potion of Water Breathing Extended;Splash Potion of Water Breathing Extended;Lingering Potion of Water Breathing Extended"
+  },
+  {
+   "ingredient": "Gunpowder",
+   "base": "Potion of Water Breathing;Potion of Water Breathing Extended",
+   "output": "Splash Potion of Water Breathing;Splash Potion of Water Breathing Extended"
+  },
+  {
+   "ingredient": "Dragon's Breath",
+   "base": "Splash Potion of Water Breathing;Splash Potion of Water Breathing Extended",
+   "output": "Lingering Potion of Water Breathing;Lingering Potion of Water Breathing Extended"
+  }
+ ]
+}

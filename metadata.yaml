@@ -1,0 +1,22 @@
+name: astrbot_plugin_mcquery_v3
+display_name: Minecraft查询物品/成就
+short_desc: 在 QQ 群里直接查询 MC 物品描述/配方/成就,结果以图片返回
+desc: |
+  一个普通的 MC 群聊工具箱。
+
+  在 QQ 群聊中发送指令即可查询:
+  - .mq 物品名 —— 物品描述 + 合成/熔炼/锻造/酿造配方(多配方全发,附中文字幕)
+  - .cj 成就名 —— Java 版进度(分类/描述/上游进度/实际需求)
+  - .mq 物品 / .mq 方块 / .cj 成就 —— 全目录浏览
+
+  数据内置离线,覆盖 Java 版生存可获取物品/方块与全部成就,无需任何网络接口;
+  支持中文名直接查询,变体物品自动归入父页面。
+version: 3.0.0
+author: Shiro_Mau
+repo: https://github.com/Shiro-Mau/astrbot_plugin_mcquery_v3
+tags:
+  - Minecraft
+  - 我的世界
+  - 配方查询
+  - 成就
+  - 群聊工具

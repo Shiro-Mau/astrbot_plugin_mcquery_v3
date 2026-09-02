@@ -1,0 +1,1700 @@
+{
+ "安山岩台阶": [
+  {
+   "input": [
+    "Andesite"
+   ],
+   "output": "Andesite Slab"
+  }
+ ],
+ "安山岩楼梯": [
+  {
+   "input": [
+    "Andesite"
+   ],
+   "output": "Andesite Stairs"
+  }
+ ],
+ "安山岩墙": [
+  {
+   "input": [
+    "Andesite"
+   ],
+   "output": "Andesite Wall"
+  }
+ ],
+ "黑石台阶": [
+  {
+   "input": [
+    "Blackstone"
+   ],
+   "output": "Blackstone Slab"
+  }
+ ],
+ "黑石楼梯": [
+  {
+   "input": [
+    "Blackstone"
+   ],
+   "output": "Blackstone Stairs"
+  }
+ ],
+ "黑石墙": [
+  {
+   "input": [
+    "Blackstone"
+   ],
+   "output": "Blackstone Wall"
+  }
+ ],
+ "红砖台阶": [
+  {
+   "input": [
+    "Bricks"
+   ],
+   "output": "Brick Slab"
+  }
+ ],
+ "红砖楼梯": [
+  {
+   "input": [
+    "Bricks"
+   ],
+   "output": "Brick Stairs"
+  }
+ ],
+ "红砖墙": [
+  {
+   "input": [
+    "Bricks"
+   ],
+   "output": "Brick Wall"
+  }
+ ],
+ "雕纹朱砂": [
+  {
+   "input": [
+    "Cinnabar"
+   ],
+   "output": "Chiseled Cinnabar"
+  }
+ ],
+ "雕纹铜块": [
+  {
+   "input": [
+    "Block of Copper",
+    "Cut Copper"
+   ],
+   "output": "Chiseled Copper"
+  }
+ ],
+ "雕纹深板岩": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate"
+   ],
+   "output": "Chiseled Deepslate"
+  }
+ ],
+ "雕纹下界砖块": [
+  {
+   "input": [
+    "Nether Bricks"
+   ],
+   "output": "Chiseled Nether Bricks"
+  }
+ ],
+ "雕纹磨制黑石": [
+  {
+   "input": [
+    "Blackstone",
+    "Polished Blackstone"
+   ],
+   "output": "Chiseled Polished Blackstone"
+  }
+ ],
+ "雕纹石英块": [
+  {
+   "input": [
+    "Block of Quartz"
+   ],
+   "output": "Chiseled Quartz Block"
+  }
+ ],
+ "雕纹红砂岩": [
+  {
+   "input": [
+    "Red Sandstone"
+   ],
+   "output": "Chiseled Red Sandstone"
+  }
+ ],
+ "雕纹树脂砖块": [
+  {
+   "input": [
+    "Resin Bricks"
+   ],
+   "output": "Chiseled Resin Bricks"
+  }
+ ],
+ "雕纹砂岩": [
+  {
+   "input": [
+    "Sandstone"
+   ],
+   "output": "Chiseled Sandstone"
+  }
+ ],
+ "雕纹石砖": [
+  {
+   "input": [
+    "Stone Bricks",
+    "Stone"
+   ],
+   "output": "Chiseled Stone Bricks"
+  }
+ ],
+ "雕纹硫黄": [
+  {
+   "input": [
+    "Sulfur"
+   ],
+   "output": "Chiseled Sulfur"
+  }
+ ],
+ "雕纹凝灰岩": [
+  {
+   "input": [
+    "Tuff"
+   ],
+   "output": "Chiseled Tuff"
+  }
+ ],
+ "雕纹凝灰岩砖": [
+  {
+   "input": [
+    "Polished Tuff",
+    "Tuff Bricks",
+    "Tuff"
+   ],
+   "output": "Chiseled Tuff Bricks"
+  }
+ ],
+ "朱砂砖台阶": [
+  {
+   "input": [
+    "Cinnabar Bricks",
+    "Cinnabar",
+    "Polished Cinnabar"
+   ],
+   "output": "Cinnabar Brick Slab"
+  }
+ ],
+ "朱砂砖楼梯": [
+  {
+   "input": [
+    "Cinnabar Bricks",
+    "Cinnabar",
+    "Polished Cinnabar"
+   ],
+   "output": "Cinnabar Brick Stairs"
+  }
+ ],
+ "朱砂砖墙": [
+  {
+   "input": [
+    "Cinnabar Bricks",
+    "Cinnabar",
+    "Polished Cinnabar"
+   ],
+   "output": "Cinnabar Brick Wall"
+  }
+ ],
+ "朱砂砖": [
+  {
+   "input": [
+    "Cinnabar",
+    "Polished Cinnabar"
+   ],
+   "output": "Cinnabar Bricks"
+  }
+ ],
+ "朱砂台阶": [
+  {
+   "input": [
+    "Cinnabar"
+   ],
+   "output": "Cinnabar Slab"
+  }
+ ],
+ "朱砂楼梯": [
+  {
+   "input": [
+    "Cinnabar"
+   ],
+   "output": "Cinnabar Stairs"
+  }
+ ],
+ "朱砂墙": [
+  {
+   "input": [
+    "Cinnabar"
+   ],
+   "output": "Cinnabar Wall"
+  }
+ ],
+ "深板岩圆石": [
+  {
+   "input": [
+    "Deepslate"
+   ],
+   "output": "Cobbled Deepslate"
+  }
+ ],
+ "深板岩圆石台阶": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate"
+   ],
+   "output": "Cobbled Deepslate Slab"
+  }
+ ],
+ "深板岩圆石楼梯": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate"
+   ],
+   "output": "Cobbled Deepslate Stairs"
+  }
+ ],
+ "深板岩圆石墙": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate"
+   ],
+   "output": "Cobbled Deepslate Wall"
+  }
+ ],
+ "圆石": [
+  {
+   "input": [
+    "Stone"
+   ],
+   "output": "Cobblestone"
+  }
+ ],
+ "圆石台阶": [
+  {
+   "input": [
+    "Cobblestone",
+    "Stone"
+   ],
+   "output": "Cobblestone Slab"
+  }
+ ],
+ "圆石楼梯": [
+  {
+   "input": [
+    "Cobblestone",
+    "Stone"
+   ],
+   "output": "Cobblestone Stairs"
+  }
+ ],
+ "圆石墙": [
+  {
+   "input": [
+    "Cobblestone",
+    "Stone"
+   ],
+   "output": "Cobblestone Wall"
+  }
+ ],
+ "铜格栅": [
+  {
+   "input": [
+    "Block of Copper"
+   ],
+   "output": "Copper Grate"
+  }
+ ],
+ "切制铜块": [
+  {
+   "input": [
+    "Block of Copper"
+   ],
+   "output": "Cut Copper"
+  }
+ ],
+ "切制铜台阶": [
+  {
+   "input": [
+    "Block of Copper",
+    "Cut Copper"
+   ],
+   "output": "Cut Copper Slab"
+  }
+ ],
+ "切制铜楼梯": [
+  {
+   "input": [
+    "Block of Copper",
+    "Cut Copper"
+   ],
+   "output": "Cut Copper Stairs"
+  }
+ ],
+ "切制红砂岩": [
+  {
+   "input": [
+    "Red Sandstone"
+   ],
+   "output": "Cut Red Sandstone"
+  }
+ ],
+ "切制红砂岩台阶": [
+  {
+   "input": [
+    "Cut Red Sandstone",
+    "Red Sandstone"
+   ],
+   "output": "Cut Red Sandstone Slab"
+  }
+ ],
+ "切制砂岩": [
+  {
+   "input": [
+    "Sandstone"
+   ],
+   "output": "Cut Sandstone"
+  }
+ ],
+ "切制砂岩台阶": [
+  {
+   "input": [
+    "Cut Sandstone",
+    "Sandstone"
+   ],
+   "output": "Cut Sandstone Slab"
+  }
+ ],
+ "暗海晶石台阶": [
+  {
+   "input": [
+    "Dark Prismarine"
+   ],
+   "output": "Dark Prismarine Slab"
+  }
+ ],
+ "暗海晶石楼梯": [
+  {
+   "input": [
+    "Dark Prismarine"
+   ],
+   "output": "Dark Prismarine Stairs"
+  }
+ ],
+ "深板岩砖台阶": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate Bricks",
+    "Deepslate",
+    "Polished Deepslate"
+   ],
+   "output": "Deepslate Brick Slab"
+  }
+ ],
+ "深板岩砖楼梯": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate Bricks",
+    "Deepslate",
+    "Polished Deepslate"
+   ],
+   "output": "Deepslate Brick Stairs"
+  }
+ ],
+ "深板岩砖墙": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate Bricks",
+    "Deepslate",
+    "Polished Deepslate"
+   ],
+   "output": "Deepslate Brick Wall"
+  }
+ ],
+ "深板岩砖": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate",
+    "Polished Deepslate"
+   ],
+   "output": "Deepslate Bricks"
+  }
+ ],
+ "深板岩瓦台阶": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate Bricks",
+    "Deepslate",
+    "Deepslate Tiles",
+    "Polished Deepslate"
+   ],
+   "output": "Deepslate Tile Slab"
+  }
+ ],
+ "深板岩瓦楼梯": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate Bricks",
+    "Deepslate",
+    "Deepslate Tiles",
+    "Polished Deepslate"
+   ],
+   "output": "Deepslate Tile Stairs"
+  }
+ ],
+ "深板岩瓦墙": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate Bricks",
+    "Deepslate",
+    "Deepslate Tiles",
+    "Polished Deepslate"
+   ],
+   "output": "Deepslate Tile Wall"
+  }
+ ],
+ "深板岩瓦": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate Bricks",
+    "Deepslate",
+    "Polished Deepslate"
+   ],
+   "output": "Deepslate Tiles"
+  }
+ ],
+ "闪长岩台阶": [
+  {
+   "input": [
+    "Diorite"
+   ],
+   "output": "Diorite Slab"
+  }
+ ],
+ "闪长岩楼梯": [
+  {
+   "input": [
+    "Diorite"
+   ],
+   "output": "Diorite Stairs"
+  }
+ ],
+ "闪长岩墙": [
+  {
+   "input": [
+    "Diorite"
+   ],
+   "output": "Diorite Wall"
+  }
+ ],
+ "末地石砖台阶": [
+  {
+   "input": [
+    "End Stone Bricks",
+    "End Stone"
+   ],
+   "output": "End Stone Brick Slab"
+  }
+ ],
+ "末地石砖楼梯": [
+  {
+   "input": [
+    "End Stone Bricks",
+    "End Stone"
+   ],
+   "output": "End Stone Brick Stairs"
+  }
+ ],
+ "末地石砖墙": [
+  {
+   "input": [
+    "End Stone Bricks",
+    "End Stone"
+   ],
+   "output": "End Stone Brick Wall"
+  }
+ ],
+ "末地石砖": [
+  {
+   "input": [
+    "End Stone"
+   ],
+   "output": "End Stone Bricks"
+  }
+ ],
+ "斑驳的雕纹铜块": [
+  {
+   "input": [
+    "Exposed Copper",
+    "Exposed Cut Copper"
+   ],
+   "output": "Exposed Chiseled Copper"
+  }
+ ],
+ "斑驳的铜格栅": [
+  {
+   "input": [
+    "Exposed Copper"
+   ],
+   "output": "Exposed Copper Grate"
+  }
+ ],
+ "斑驳的切制铜块": [
+  {
+   "input": [
+    "Exposed Copper"
+   ],
+   "output": "Exposed Cut Copper"
+  }
+ ],
+ "斑驳的切制铜台阶": [
+  {
+   "input": [
+    "Exposed Copper",
+    "Exposed Cut Copper"
+   ],
+   "output": "Exposed Cut Copper Slab"
+  }
+ ],
+ "斑驳的切制铜楼梯": [
+  {
+   "input": [
+    "Exposed Copper",
+    "Exposed Cut Copper"
+   ],
+   "output": "Exposed Cut Copper Stairs"
+  }
+ ],
+ "花岗岩台阶": [
+  {
+   "input": [
+    "Granite"
+   ],
+   "output": "Granite Slab"
+  }
+ ],
+ "花岗岩楼梯": [
+  {
+   "input": [
+    "Granite"
+   ],
+   "output": "Granite Stairs"
+  }
+ ],
+ "花岗岩墙": [
+  {
+   "input": [
+    "Granite"
+   ],
+   "output": "Granite Wall"
+  }
+ ],
+ "苔石台阶": [
+  {
+   "input": [
+    "Mossy Cobblestone"
+   ],
+   "output": "Mossy Cobblestone Slab"
+  }
+ ],
+ "苔石楼梯": [
+  {
+   "input": [
+    "Mossy Cobblestone"
+   ],
+   "output": "Mossy Cobblestone Stairs"
+  }
+ ],
+ "苔石墙": [
+  {
+   "input": [
+    "Mossy Cobblestone"
+   ],
+   "output": "Mossy Cobblestone Wall"
+  }
+ ],
+ "苔石砖台阶": [
+  {
+   "input": [
+    "Mossy Stone Bricks"
+   ],
+   "output": "Mossy Stone Brick Slab"
+  }
+ ],
+ "苔石砖楼梯": [
+  {
+   "input": [
+    "Mossy Stone Bricks"
+   ],
+   "output": "Mossy Stone Brick Stairs"
+  }
+ ],
+ "苔石砖墙": [
+  {
+   "input": [
+    "Mossy Stone Bricks"
+   ],
+   "output": "Mossy Stone Brick Wall"
+  }
+ ],
+ "泥砖台阶": [
+  {
+   "input": [
+    "Mud Bricks"
+   ],
+   "output": "Mud Brick Slab"
+  }
+ ],
+ "泥砖楼梯": [
+  {
+   "input": [
+    "Mud Bricks"
+   ],
+   "output": "Mud Brick Stairs"
+  }
+ ],
+ "泥砖墙": [
+  {
+   "input": [
+    "Mud Bricks"
+   ],
+   "output": "Mud Brick Wall"
+  }
+ ],
+ "下界砖台阶": [
+  {
+   "input": [
+    "Nether Bricks"
+   ],
+   "output": "Nether Brick Slab"
+  }
+ ],
+ "下界砖楼梯": [
+  {
+   "input": [
+    "Nether Bricks"
+   ],
+   "output": "Nether Brick Stairs"
+  }
+ ],
+ "下界砖墙": [
+  {
+   "input": [
+    "Nether Bricks"
+   ],
+   "output": "Nether Brick Wall"
+  }
+ ],
+ "氧化的雕纹铜块": [
+  {
+   "input": [
+    "Oxidized Copper",
+    "Oxidized Cut Copper"
+   ],
+   "output": "Oxidized Chiseled Copper"
+  }
+ ],
+ "氧化的铜格栅": [
+  {
+   "input": [
+    "Oxidized Copper"
+   ],
+   "output": "Oxidized Copper Grate"
+  }
+ ],
+ "氧化的切制铜块": [
+  {
+   "input": [
+    "Oxidized Copper"
+   ],
+   "output": "Oxidized Cut Copper"
+  }
+ ],
+ "氧化的切制铜台阶": [
+  {
+   "input": [
+    "Oxidized Copper",
+    "Oxidized Cut Copper"
+   ],
+   "output": "Oxidized Cut Copper Slab"
+  }
+ ],
+ "氧化的切制铜楼梯": [
+  {
+   "input": [
+    "Oxidized Copper",
+    "Oxidized Cut Copper"
+   ],
+   "output": "Oxidized Cut Copper Stairs"
+  }
+ ],
+ "磨制安山岩": [
+  {
+   "input": [
+    "Andesite"
+   ],
+   "output": "Polished Andesite"
+  }
+ ],
+ "磨制安山岩台阶": [
+  {
+   "input": [
+    "Andesite",
+    "Polished Andesite"
+   ],
+   "output": "Polished Andesite Slab"
+  }
+ ],
+ "磨制安山岩楼梯": [
+  {
+   "input": [
+    "Andesite",
+    "Polished Andesite"
+   ],
+   "output": "Polished Andesite Stairs"
+  }
+ ],
+ "磨制玄武岩": [
+  {
+   "input": [
+    "Basalt"
+   ],
+   "output": "Polished Basalt"
+  }
+ ],
+ "磨制黑石": [
+  {
+   "input": [
+    "Blackstone"
+   ],
+   "output": "Polished Blackstone"
+  }
+ ],
+ "磨制黑石砖台阶": [
+  {
+   "input": [
+    "Blackstone",
+    "Polished Blackstone Bricks",
+    "Polished Blackstone"
+   ],
+   "output": "Polished Blackstone Brick Slab"
+  }
+ ],
+ "磨制黑石砖楼梯": [
+  {
+   "input": [
+    "Blackstone",
+    "Polished Blackstone Bricks",
+    "Polished Blackstone"
+   ],
+   "output": "Polished Blackstone Brick Stairs"
+  }
+ ],
+ "磨制黑石砖墙": [
+  {
+   "input": [
+    "Blackstone",
+    "Polished Blackstone Bricks",
+    "Polished Blackstone"
+   ],
+   "output": "Polished Blackstone Brick Wall"
+  }
+ ],
+ "磨制黑石砖": [
+  {
+   "input": [
+    "Blackstone",
+    "Polished Blackstone"
+   ],
+   "output": "Polished Blackstone Bricks"
+  }
+ ],
+ "磨制黑石台阶": [
+  {
+   "input": [
+    "Blackstone",
+    "Polished Blackstone"
+   ],
+   "output": "Polished Blackstone Slab"
+  }
+ ],
+ "磨制黑石楼梯": [
+  {
+   "input": [
+    "Blackstone",
+    "Polished Blackstone"
+   ],
+   "output": "Polished Blackstone Stairs"
+  }
+ ],
+ "磨制黑石墙": [
+  {
+   "input": [
+    "Blackstone",
+    "Polished Blackstone"
+   ],
+   "output": "Polished Blackstone Wall"
+  }
+ ],
+ "磨制朱砂": [
+  {
+   "input": [
+    "Cinnabar"
+   ],
+   "output": "Polished Cinnabar"
+  }
+ ],
+ "磨制朱砂台阶": [
+  {
+   "input": [
+    "Cinnabar",
+    "Polished Cinnabar"
+   ],
+   "output": "Polished Cinnabar Slab"
+  }
+ ],
+ "磨制朱砂楼梯": [
+  {
+   "input": [
+    "Cinnabar",
+    "Polished Cinnabar"
+   ],
+   "output": "Polished Cinnabar Stairs"
+  }
+ ],
+ "磨制朱砂墙": [
+  {
+   "input": [
+    "Cinnabar",
+    "Polished Cinnabar"
+   ],
+   "output": "Polished Cinnabar Wall"
+  }
+ ],
+ "磨制深板岩": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate"
+   ],
+   "output": "Polished Deepslate"
+  }
+ ],
+ "磨制深板岩台阶": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate",
+    "Polished Deepslate"
+   ],
+   "output": "Polished Deepslate Slab"
+  }
+ ],
+ "磨制深板岩楼梯": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate",
+    "Polished Deepslate"
+   ],
+   "output": "Polished Deepslate Stairs"
+  }
+ ],
+ "磨制深板岩墙": [
+  {
+   "input": [
+    "Cobbled Deepslate",
+    "Deepslate",
+    "Polished Deepslate"
+   ],
+   "output": "Polished Deepslate Wall"
+  }
+ ],
+ "磨制闪长岩": [
+  {
+   "input": [
+    "Diorite"
+   ],
+   "output": "Polished Diorite"
+  }
+ ],
+ "磨制闪长岩台阶": [
+  {
+   "input": [
+    "Diorite",
+    "Polished Diorite"
+   ],
+   "output": "Polished Diorite Slab"
+  }
+ ],
+ "磨制闪长岩楼梯": [
+  {
+   "input": [
+    "Diorite",
+    "Polished Diorite"
+   ],
+   "output": "Polished Diorite Stairs"
+  }
+ ],
+ "磨制花岗岩": [
+  {
+   "input": [
+    "Granite"
+   ],
+   "output": "Polished Granite"
+  }
+ ],
+ "磨制花岗岩台阶": [
+  {
+   "input": [
+    "Granite",
+    "Polished Granite"
+   ],
+   "output": "Polished Granite Slab"
+  }
+ ],
+ "磨制花岗岩楼梯": [
+  {
+   "input": [
+    "Granite",
+    "Polished Granite"
+   ],
+   "output": "Polished Granite Stairs"
+  }
+ ],
+ "磨制硫黄": [
+  {
+   "input": [
+    "Sulfur"
+   ],
+   "output": "Polished Sulfur"
+  }
+ ],
+ "磨制硫黄台阶": [
+  {
+   "input": [
+    "Polished Sulfur",
+    "Sulfur"
+   ],
+   "output": "Polished Sulfur Slab"
+  }
+ ],
+ "磨制硫黄楼梯": [
+  {
+   "input": [
+    "Polished Sulfur",
+    "Sulfur"
+   ],
+   "output": "Polished Sulfur Stairs"
+  }
+ ],
+ "磨制硫黄墙": [
+  {
+   "input": [
+    "Polished Sulfur",
+    "Sulfur"
+   ],
+   "output": "Polished Sulfur Wall"
+  }
+ ],
+ "磨制凝灰岩": [
+  {
+   "input": [
+    "Tuff"
+   ],
+   "output": "Polished Tuff"
+  }
+ ],
+ "磨制凝灰岩台阶": [
+  {
+   "input": [
+    "Polished Tuff",
+    "Tuff"
+   ],
+   "output": "Polished Tuff Slab"
+  }
+ ],
+ "磨制凝灰岩楼梯": [
+  {
+   "input": [
+    "Polished Tuff",
+    "Tuff"
+   ],
+   "output": "Polished Tuff Stairs"
+  }
+ ],
+ "磨制凝灰岩墙": [
+  {
+   "input": [
+    "Polished Tuff",
+    "Tuff"
+   ],
+   "output": "Polished Tuff Wall"
+  }
+ ],
+ "海晶石砖台阶": [
+  {
+   "input": [
+    "Prismarine Bricks"
+   ],
+   "output": "Prismarine Brick Slab"
+  }
+ ],
+ "海晶石砖楼梯": [
+  {
+   "input": [
+    "Prismarine Bricks"
+   ],
+   "output": "Prismarine Brick Stairs"
+  }
+ ],
+ "海晶石台阶": [
+  {
+   "input": [
+    "Prismarine"
+   ],
+   "output": "Prismarine Slab"
+  }
+ ],
+ "海晶石楼梯": [
+  {
+   "input": [
+    "Prismarine"
+   ],
+   "output": "Prismarine Stairs"
+  }
+ ],
+ "海晶石墙": [
+  {
+   "input": [
+    "Prismarine"
+   ],
+   "output": "Prismarine Wall"
+  }
+ ],
+ "紫珀柱": [
+  {
+   "input": [
+    "Purpur Block"
+   ],
+   "output": "Purpur Pillar"
+  }
+ ],
+ "紫珀台阶": [
+  {
+   "input": [
+    "Purpur Block"
+   ],
+   "output": "Purpur Slab"
+  }
+ ],
+ "紫珀楼梯": [
+  {
+   "input": [
+    "Purpur Block"
+   ],
+   "output": "Purpur Stairs"
+  }
+ ],
+ "石英砖": [
+  {
+   "input": [
+    "Block of Quartz"
+   ],
+   "output": "Quartz Bricks"
+  }
+ ],
+ "石英柱": [
+  {
+   "input": [
+    "Block of Quartz"
+   ],
+   "output": "Quartz Pillar"
+  }
+ ],
+ "石英台阶": [
+  {
+   "input": [
+    "Block of Quartz"
+   ],
+   "output": "Quartz Slab"
+  }
+ ],
+ "石英楼梯": [
+  {
+   "input": [
+    "Block of Quartz"
+   ],
+   "output": "Quartz Stairs"
+  }
+ ],
+ "红色下界砖台阶": [
+  {
+   "input": [
+    "Red Nether Bricks"
+   ],
+   "output": "Red Nether Brick Slab"
+  }
+ ],
+ "红色下界砖楼梯": [
+  {
+   "input": [
+    "Red Nether Bricks"
+   ],
+   "output": "Red Nether Brick Stairs"
+  }
+ ],
+ "红色下界砖墙": [
+  {
+   "input": [
+    "Red Nether Bricks"
+   ],
+   "output": "Red Nether Brick Wall"
+  }
+ ],
+ "红砂岩台阶": [
+  {
+   "input": [
+    "Red Sandstone"
+   ],
+   "output": "Red Sandstone Slab"
+  }
+ ],
+ "红砂岩楼梯": [
+  {
+   "input": [
+    "Red Sandstone"
+   ],
+   "output": "Red Sandstone Stairs"
+  }
+ ],
+ "红砂岩墙": [
+  {
+   "input": [
+    "Red Sandstone"
+   ],
+   "output": "Red Sandstone Wall"
+  }
+ ],
+ "树脂砖台阶": [
+  {
+   "input": [
+    "Resin Bricks"
+   ],
+   "output": "Resin Brick Slab"
+  }
+ ],
+ "树脂砖楼梯": [
+  {
+   "input": [
+    "Resin Bricks"
+   ],
+   "output": "Resin Brick Stairs"
+  }
+ ],
+ "树脂砖墙": [
+  {
+   "input": [
+    "Resin Bricks"
+   ],
+   "output": "Resin Brick Wall"
+  }
+ ],
+ "砂岩台阶": [
+  {
+   "input": [
+    "Sandstone"
+   ],
+   "output": "Sandstone Slab"
+  }
+ ],
+ "砂岩楼梯": [
+  {
+   "input": [
+    "Sandstone"
+   ],
+   "output": "Sandstone Stairs"
+  }
+ ],
+ "砂岩墙": [
+  {
+   "input": [
+    "Sandstone"
+   ],
+   "output": "Sandstone Wall"
+  }
+ ],
+ "平滑石英台阶": [
+  {
+   "input": [
+    "Smooth Quartz"
+   ],
+   "output": "Smooth Quartz Slab"
+  }
+ ],
+ "平滑石英楼梯": [
+  {
+   "input": [
+    "Smooth Quartz"
+   ],
+   "output": "Smooth Quartz Stairs"
+  }
+ ],
+ "平滑红砂岩台阶": [
+  {
+   "input": [
+    "Smooth Red Sandstone"
+   ],
+   "output": "Smooth Red Sandstone Slab"
+  }
+ ],
+ "平滑红砂岩楼梯": [
+  {
+   "input": [
+    "Smooth Red Sandstone"
+   ],
+   "output": "Smooth Red Sandstone Stairs"
+  }
+ ],
+ "平滑砂岩台阶": [
+  {
+   "input": [
+    "Smooth Sandstone"
+   ],
+   "output": "Smooth Sandstone Slab"
+  }
+ ],
+ "平滑砂岩楼梯": [
+  {
+   "input": [
+    "Smooth Sandstone"
+   ],
+   "output": "Smooth Sandstone Stairs"
+  }
+ ],
+ "平滑石头台阶": [
+  {
+   "input": [
+    "Smooth Stone"
+   ],
+   "output": "Smooth Stone Slab"
+  }
+ ],
+ "石砖台阶": [
+  {
+   "input": [
+    "Stone Bricks",
+    "Stone"
+   ],
+   "output": "Stone Brick Slab"
+  }
+ ],
+ "石砖楼梯": [
+  {
+   "input": [
+    "Stone Bricks",
+    "Stone"
+   ],
+   "output": "Stone Brick Stairs"
+  }
+ ],
+ "石砖墙": [
+  {
+   "input": [
+    "Stone Bricks",
+    "Stone"
+   ],
+   "output": "Stone Brick Wall"
+  }
+ ],
+ "石砖": [
+  {
+   "input": [
+    "Stone"
+   ],
+   "output": "Stone Bricks"
+  }
+ ],
+ "石头台阶": [
+  {
+   "input": [
+    "Stone"
+   ],
+   "output": "Stone Slab"
+  }
+ ],
+ "石头楼梯": [
+  {
+   "input": [
+    "Stone"
+   ],
+   "output": "Stone Stairs"
+  }
+ ],
+ "硫黄砖台阶": [
+  {
+   "input": [
+    "Polished Sulfur",
+    "Sulfur Bricks",
+    "Sulfur"
+   ],
+   "output": "Sulfur Brick Slab"
+  }
+ ],
+ "硫黄砖楼梯": [
+  {
+   "input": [
+    "Polished Sulfur",
+    "Sulfur Bricks",
+    "Sulfur"
+   ],
+   "output": "Sulfur Brick Stairs"
+  }
+ ],
+ "硫黄砖墙": [
+  {
+   "input": [
+    "Polished Sulfur",
+    "Sulfur Bricks",
+    "Sulfur"
+   ],
+   "output": "Sulfur Brick Wall"
+  }
+ ],
+ "硫黄砖": [
+  {
+   "input": [
+    "Polished Sulfur",
+    "Sulfur"
+   ],
+   "output": "Sulfur Bricks"
+  }
+ ],
+ "硫黄台阶": [
+  {
+   "input": [
+    "Sulfur"
+   ],
+   "output": "Sulfur Slab"
+  }
+ ],
+ "硫黄楼梯": [
+  {
+   "input": [
+    "Sulfur"
+   ],
+   "output": "Sulfur Stairs"
+  }
+ ],
+ "硫黄墙": [
+  {
+   "input": [
+    "Sulfur"
+   ],
+   "output": "Sulfur Wall"
+  }
+ ],
+ "凝灰岩砖台阶": [
+  {
+   "input": [
+    "Polished Tuff",
+    "Tuff Bricks",
+    "Tuff"
+   ],
+   "output": "Tuff Brick Slab"
+  }
+ ],
+ "凝灰岩砖楼梯": [
+  {
+   "input": [
+    "Polished Tuff",
+    "Tuff Bricks",
+    "Tuff"
+   ],
+   "output": "Tuff Brick Stairs"
+  }
+ ],
+ "凝灰岩砖墙": [
+  {
+   "input": [
+    "Polished Tuff",
+    "Tuff Bricks",
+    "Tuff"
+   ],
+   "output": "Tuff Brick Wall"
+  }
+ ],
+ "凝灰岩砖": [
+  {
+   "input": [
+    "Polished Tuff",
+    "Tuff"
+   ],
+   "output": "Tuff Bricks"
+  }
+ ],
+ "凝灰岩台阶": [
+  {
+   "input": [
+    "Tuff"
+   ],
+   "output": "Tuff Slab"
+  }
+ ],
+ "凝灰岩楼梯": [
+  {
+   "input": [
+    "Tuff"
+   ],
+   "output": "Tuff Stairs"
+  }
+ ],
+ "凝灰岩墙": [
+  {
+   "input": [
+    "Tuff"
+   ],
+   "output": "Tuff Wall"
+  }
+ ],
+ "涂蜡的雕纹铜块": [
+  {
+   "input": [
+    "Waxed Block of Copper",
+    "Waxed Cut Copper"
+   ],
+   "output": "Waxed Chiseled Copper"
+  }
+ ],
+ "涂蜡的铜格栅": [
+  {
+   "input": [
+    "Waxed Block of Copper"
+   ],
+   "output": "Waxed Copper Grate"
+  }
+ ],
+ "涂蜡的切制铜块": [
+  {
+   "input": [
+    "Waxed Block of Copper"
+   ],
+   "output": "Waxed Cut Copper"
+  }
+ ],
+ "涂蜡的切制铜台阶": [
+  {
+   "input": [
+    "Waxed Block of Copper",
+    "Waxed Cut Copper"
+   ],
+   "output": "Waxed Cut Copper Slab"
+  }
+ ],
+ "涂蜡的切制铜楼梯": [
+  {
+   "input": [
+    "Waxed Block of Copper",
+    "Waxed Cut Copper"
+   ],
+   "output": "Waxed Cut Copper Stairs"
+  }
+ ],
+ "涂蜡的斑驳雕纹铜块": [
+  {
+   "input": [
+    "Waxed Exposed Copper",
+    "Waxed Exposed Cut Copper"
+   ],
+   "output": "Waxed Exposed Chiseled Copper"
+  }
+ ],
+ "涂蜡的斑驳铜格栅": [
+  {
+   "input": [
+    "Waxed Exposed Copper"
+   ],
+   "output": "Waxed Exposed Copper Grate"
+  }
+ ],
+ "涂蜡的斑驳切制铜块": [
+  {
+   "input": [
+    "Waxed Exposed Copper"
+   ],
+   "output": "Waxed Exposed Cut Copper"
+  }
+ ],
+ "涂蜡的斑驳切制铜台阶": [
+  {
+   "input": [
+    "Waxed Exposed Copper",
+    "Waxed Exposed Cut Copper"
+   ],
+   "output": "Waxed Exposed Cut Copper Slab"
+  }
+ ],
+ "涂蜡的斑驳切制铜楼梯": [
+  {
+   "input": [
+    "Waxed Exposed Copper",
+    "Waxed Exposed Cut Copper"
+   ],
+   "output": "Waxed Exposed Cut Copper Stairs"
+  }
+ ],
+ "涂蜡的氧化雕纹铜块": [
+  {
+   "input": [
+    "Waxed Oxidized Copper",
+    "Waxed Oxidized Cut Copper"
+   ],
+   "output": "Waxed Oxidized Chiseled Copper"
+  }
+ ],
+ "涂蜡的氧化铜格栅": [
+  {
+   "input": [
+    "Waxed Oxidized Copper"
+   ],
+   "output": "Waxed Oxidized Copper Grate"
+  }
+ ],
+ "涂蜡的氧化切制铜块": [
+  {
+   "input": [
+    "Waxed Oxidized Copper"
+   ],
+   "output": "Waxed Oxidized Cut Copper"
+  }
+ ],
+ "涂蜡的氧化切制铜台阶": [
+  {
+   "input": [
+    "Waxed Oxidized Copper",
+    "Waxed Oxidized Cut Copper"
+   ],
+   "output": "Waxed Oxidized Cut Copper Slab"
+  }
+ ],
+ "涂蜡的氧化切制铜楼梯": [
+  {
+   "input": [
+    "Waxed Oxidized Copper",
+    "Waxed Oxidized Cut Copper"
+   ],
+   "output": "Waxed Oxidized Cut Copper Stairs"
+  }
+ ],
+ "涂蜡的锈蚀雕纹铜块": [
+  {
+   "input": [
+    "Waxed Weathered Copper",
+    "Waxed Weathered Cut Copper"
+   ],
+   "output": "Waxed Weathered Chiseled Copper"
+  }
+ ],
+ "涂蜡的锈蚀铜格栅": [
+  {
+   "input": [
+    "Waxed Weathered Copper"
+   ],
+   "output": "Waxed Weathered Copper Grate"
+  }
+ ],
+ "涂蜡的锈蚀切制铜块": [
+  {
+   "input": [
+    "Waxed Weathered Copper"
+   ],
+   "output": "Waxed Weathered Cut Copper"
+  }
+ ],
+ "涂蜡的锈蚀切制铜台阶": [
+  {
+   "input": [
+    "Waxed Weathered Copper",
+    "Waxed Weathered Cut Copper"
+   ],
+   "output": "Waxed Weathered Cut Copper Slab"
+  }
+ ],
+ "涂蜡的锈蚀切制铜楼梯": [
+  {
+   "input": [
+    "Waxed Weathered Copper",
+    "Waxed Weathered Cut Copper"
+   ],
+   "output": "Waxed Weathered Cut Copper Stairs"
+  }
+ ],
+ "锈蚀的雕纹铜块": [
+  {
+   "input": [
+    "Weathered Copper",
+    "Weathered Cut Copper"
+   ],
+   "output": "Weathered Chiseled Copper"
+  }
+ ],
+ "锈蚀的铜格栅": [
+  {
+   "input": [
+    "Weathered Copper"
+   ],
+   "output": "Weathered Copper Grate"
+  }
+ ],
+ "锈蚀的切制铜块": [
+  {
+   "input": [
+    "Weathered Copper"
+   ],
+   "output": "Weathered Cut Copper"
+  }
+ ],
+ "锈蚀的切制铜台阶": [
+  {
+   "input": [
+    "Weathered Copper",
+    "Weathered Cut Copper"
+   ],
+   "output": "Weathered Cut Copper Slab"
+  }
+ ],
+ "锈蚀的切制铜楼梯": [
+  {
+   "input": [
+    "Weathered Copper",
+    "Weathered Cut Copper"
+   ],
+   "output": "Weathered Cut Copper Stairs"
+  }
+ ]
+}
